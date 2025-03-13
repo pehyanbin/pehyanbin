@@ -2,7 +2,7 @@
 
 Just a newbie programmer who only knows : 
 
-- Python
+- Python 🐍
 - Java
 - C++
 - C#
