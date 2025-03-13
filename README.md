@@ -28,3 +28,8 @@ And also some knowledge on :
 - Artificial Intelligence
 - Blockchain
 - Encryption
+
+
+
+
+** INTI Subang x Swinburne University of Technology **
