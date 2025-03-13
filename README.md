@@ -33,3 +33,4 @@ And also some knowledge on :
 
 
 Currently Studying At : **INTI Subang x Swinburne University of Technology**
+Major : `Bachelor of Computer Science Majoring in Cybersecurity`
