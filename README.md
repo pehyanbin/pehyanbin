@@ -1,16 +1,25 @@
-## Hi there 👋
+# pehyanbin
 
-<!--
-**pehyanbin/pehyanbin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Just a newbie programmer who only knows : 
 
-Here are some ideas to get you started:
+- Python
+- Java
+- C++
+- C#
+- Kotlin
+- Ruby
+- HTML
+- CSS
+- JavaScript
+- PHP
+- MySQL
+- Computer Network
+- ARMLite Assembly
+- Markdown Format
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+And also some knowledge on : 
+
+- Cybersecurity SY0-701
+- Artificial Intelligence
+- Blockchain
+- Encryption
