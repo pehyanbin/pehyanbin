@@ -17,8 +17,8 @@ Just a newbie programmer who only knows :
 - ARMLite Assembly
 - Markdown Format
 
-![image](https://github.com/user-attachments/assets/cd684a35-06ff-43ef-9f69-ae0d80b024c6)  
-![image](https://github.com/user-attachments/assets/1406e49d-2537-477b-859d-b4cfbabc2ac5)  
+![image](https://github.com/user-attachments/assets/cd684a35-06ff-43ef-9f69-ae0d80b024c6)
+![image](https://github.com/user-attachments/assets/1406e49d-2537-477b-859d-b4cfbabc2ac5)
 
 
 
