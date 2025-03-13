@@ -14,6 +14,7 @@ Just a newbie programmer who only knows :
 - PHP
 - MySQL
 - Computer Network
+- Computer Hardware
 - ARMLite Assembly
 - Markdown Format
 
