@@ -13,7 +13,7 @@ Just a newbie programmer who only knows :
 - JavaScript
 - PHP
 - MySQL
-- Computer Network
+- Computer Network ( CCNA ) 
 - Computer Hardware
 - ARMLite Assembly
 - Markdown Format
