@@ -23,7 +23,7 @@ Just a newbie programmer who only knows :
 
 
 
-And also some knowledge on : 
+And also very little knowledge on : 
 
 - Cybersecurity SY0-701
 - Artificial Intelligence
