@@ -17,6 +17,7 @@ Just a newbie programmer who only knows :
 - Computer Hardware
 - ARMLite Assembly
 - Markdown
+- Cloud Computing 
 
 
 
