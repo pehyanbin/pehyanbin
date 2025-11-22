@@ -13,8 +13,6 @@
 <a href="https://discord.gg/pehyanbin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="pehyanbin" height="30" width="40" /></a>
 </p>
 
-<br><br>
-
 Discord ID : @pehyanbin <br>
 
 <h3 align="left">Languages and Tools:</h3>
