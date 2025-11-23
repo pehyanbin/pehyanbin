@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Peh Yan Bin</h1>
-<h3 align="center">A cybersecurity major student studying in Computer Science under Swinburne's collaborative programme with INTI.</h3>
+<h3 align="center">A cybersecurity major student studying in the Bachelor of Computer Science under Swinburne University of Technology's collaborative programme with INTI.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pehyanbin&label=Profile%20views&color=0e75b6&style=flat" alt="pehyanbin" /> </p>
 
